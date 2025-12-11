@@ -1,0 +1,28 @@
+* {
+    border: 1px red solid;;
+}
+
+.flexyOuter {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header {
+    flex: 1;
+}
+
+.flexyVert {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.vertInner {
+    flex: 1;
+}
+
+.vertInnerFlex {
+    display: flex;
+}
+
+.
